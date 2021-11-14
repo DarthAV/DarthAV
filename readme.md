@@ -1,6 +1,6 @@
-### Hi there, I'm Ansh - aka *DarthAV* 👋 
+## Hi there, I'm Ansh - aka *DarthAV* 👋 
 
-## I'm a student 
+#### Thanks for taking the time to look at my GitHub profile
 
 - 🎓 I’m currently studying at Interlake HS (Class of 2022)
 - ✈️ 2022 Goals: Contribute more to Open Source projects
@@ -16,7 +16,7 @@
 
 ## My Skills
 
-### Languages 
+### Languages and Frameworks
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
