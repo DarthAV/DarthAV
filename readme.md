@@ -1,15 +1,15 @@
 ## Hi there, I'm Ansh - aka *DarthAV* 👋 
 
-#### Thanks for taking the time to look at my GitHub profile
+#### Thanks for taking the time to check out my GitHub profile
 
 - 🎓 I’m currently studying at Interlake HS (Class of 2022)
-- ✈️ 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play soccer ⚽
+- ✈️ 2022 Goal: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to play soccer. I play as the sweeper on central defense.  ⚽
 
 
 ### Connect with me:
-[<img align="left" alt="anshverma.com" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
-[<img align="left" alt="verma-ansh | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>][linkedin]
+[<img align="left" alt="www.anshverma.com" width="26px" src="https://github.com/microsoft/fluentui-system-icons/blob/master/assets/Globe/SVG/ic_fluent_globe_32_regular.svg"/>][website]
+[<img align="left" alt="Ansh Verma | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>][linkedin]
 
 <br>
 <br>
@@ -46,7 +46,7 @@
 | RAM     	| 16GB - 3800Mhz                	|
 | Storage 	| 256GB M.2 SSD                 	|
 | Display 	| 13.5" Touchscreen (2256x1504) 	|
-| Mouse 	| Logitech G502 				 	|
+| Mouse 		| Logitech G502 								 	|
 
 
 ### Github Stats 
