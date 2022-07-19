@@ -4,11 +4,11 @@
 
 - 🎓 I’m currently studying Computer Science at the University of Illinois Urbana-Champaign (Class of 2026)
 - ✈️ 2022 Goal: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play soccer. I play as the sweeper on central defense.  ⚽
+- ⚡ Fun fact: I love to play soccer. I play as the sweeper on central defense. ⚽
 
 
 ### Connect with me:
-[<img align="left" alt="www.anshverma.com" width="26px" src="https://github.com/microsoft/fluentui-system-icons/blob/master/assets/Globe/SVG/ic_fluent_globe_32_regular.svg"/>][website]
+[<img align="left" alt="Official Website | Ansh Verma" width="26px" src="https://github.com/microsoft/fluentui-system-icons/blob/master/assets/Globe/SVG/ic_fluent_globe_32_regular.svg"/>][website]
 [<img align="left" alt="Ansh Verma | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>][linkedin]
 
 <br>
@@ -41,12 +41,12 @@
 | Device  	| Microsoft Surface Laptop 3    	|
 |---------	|-------------------------------	|
 | OS      	| Windows 11                    	|
-| CPU     	| Intel Core i7-1065G7          	|
-| GPU     	| Intel Iris Plus Graphics      	|
-| RAM     	| 16GB - 3800Mhz                	|
+| CPU     	| Intel Core i7-1065G7          	| 
+| GPU     	| Intel Iris Plus Graphics      	| 
+| RAM     	| 16GB - 3800Mhz                	| 
 | Storage 	| 256GB M.2 SSD                 	|
 | Display 	| 13.5" Touchscreen (2256x1504) 	|
-| Mouse 		| Logitech G502 								 	|
+| Mouse 		| Logitech G502 								  |
 
 
 ### Github Stats 
