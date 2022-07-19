@@ -2,7 +2,7 @@
 
 #### Thanks for taking the time to check out my GitHub profile
 
-- 🎓 I’m currently studying at Interlake HS (Class of 2022)
+- 🎓 I’m currently studying Computer Science at the University of Illinois Urbana-Champaign (Class of 2026)
 - ✈️ 2022 Goal: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play soccer. I play as the sweeper on central defense.  ⚽
 
