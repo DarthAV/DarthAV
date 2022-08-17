@@ -8,7 +8,7 @@
 
 
 ### Connect with me:
-[<img align="left" alt="Official Website | Ansh Verma" width="26px" src="https://github.com/microsoft/fluentui-system-icons/blob/main/assets/Globe/SVG/ic_fluent_globe_32_regular.svg"/>][website]
+[<img align="left" alt="Official Website | Ansh Verma" width="26px" src="https://img.icons8.com/fluency-systems-regular/96/777777/resume-website.png"/>][website]
 [<img align="left" alt="Ansh Verma | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>][linkedin]
 
 <br>
