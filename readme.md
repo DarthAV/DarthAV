@@ -2,11 +2,6 @@
 
 #### Thanks for taking the time to check out my GitHub profile
 
-- 🎓 I’m currently studying Computer Science at the University of Illinois Urbana-Champaign (Class of 2026)
-- ✈️ 2022 Goal: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play soccer. I play as the sweeper on central defense. ⚽
-
-
 ### Connect with me:
 [<img align="left" alt="Official Website | Ansh Verma" width="26px" src="https://img.icons8.com/fluency-systems-regular/96/777777/resume-website.png"/>][website]
 [<img align="left" alt="Ansh Verma | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>][linkedin]
