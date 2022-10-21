@@ -1,7 +1,5 @@
 ## Hi there, I'm Ansh - aka *DarthAV* 👋 
 
-#### Thanks for taking the time to check out my GitHub profile
-
 ### Connect with me:
 [<img align="left" alt="Official Website | Ansh Verma" width="26px" src="https://img.icons8.com/fluency-systems-regular/96/777777/resume-website.png"/>][website]
 [<img align="left" alt="Ansh Verma | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>][linkedin]
@@ -48,6 +46,7 @@
 ### Github Stats 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=darthav&count_private=true&show_icons=true&locale=en" alt="darthav" />
 
+#### Thanks for taking the time to check out my GitHub profile
 
 
 [website]: https://www.anshverma.com
