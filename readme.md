@@ -44,7 +44,9 @@
 
 
 ### Github Stats 
+<div>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=darthav&count_private=true&show_icons=true&locale=en" alt="darthav" />
+</div>
 
 #### Thanks for taking the time to check out my GitHub profile
 
