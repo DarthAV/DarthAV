@@ -31,18 +31,6 @@
 <br>
 <br>
 
-### My Setup 🧑‍💻
-| Device  	| Microsoft Surface Laptop 3    	|
-|---------	|-------------------------------	|
-| OS      	| Windows 11                    	|
-| CPU     	| Intel Core i7-1065G7          	| 
-| GPU     	| Intel Iris Plus Graphics      	| 
-| RAM     	| 16GB - 3800Mhz                	| 
-| Storage 	| 256GB M.2 SSD                 	|
-| Display 	| 13.5" Touchscreen (2256x1504) 	|
-| Mouse 		| Logitech G502 								  |
-
-
 ### Github Stats 
 <div>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=darthav&count_private=true&show_icons=true&locale=en" alt="darthav" />
