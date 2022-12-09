@@ -1,8 +1,9 @@
 ## Hi there, I'm Ansh - aka *DarthAV* 👋 
 
 ### Connect with me:
-[<img align="left" alt="Official Website | Ansh Verma" width="26px" src="https://img.icons8.com/fluency-systems-regular/96/777777/resume-website.png"/>][website]
 [<img align="left" alt="Ansh Verma | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>][linkedin]
+[<img align="left" alt="Official Website | Ansh Verma" width="26px" src="https://img.icons8.com/fluency-systems-regular/96/777777/resume-website.png"/>][website]
+
 
 <br>
 <br>
