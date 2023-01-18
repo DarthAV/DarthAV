@@ -31,10 +31,10 @@
 <br>
 <br>
 
-### Github Stats 
+<!-- ### Github Stats 
 <div>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=darthav&count_private=true&theme=dark&show_icons=true&locale=en" alt="darthav" />
-</div>
+</div> -->
 
 #### Thanks for taking the time to check out my GitHub profile
 
